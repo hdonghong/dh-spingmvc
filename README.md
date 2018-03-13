@@ -9,6 +9,7 @@
 <p>一个简单版本的SpringMVC框架，阅读SpringMVC源码后尝试模仿实现的。</p>
 
 # 环境
+IDEA
 JDK 8
 
 # 功能
@@ -33,12 +34,15 @@ JDK 8
 <img src="https://github.com/hdonghong/dh-spingmvc/blob/master/resouces/4.png" alt="" height="360"/><br/>
 
 # 运行
-<b>前台</b>
+<b>前台</b><br/>
 <img src="https://github.com/hdonghong/dh-spingmvc/blob/master/resouces/5.png" alt="" height="240"/><br/>
 
-<b>后台</b>
+<b>后台</b><br/>
 <img src="https://github.com/hdonghong/dh-spingmvc/blob/master/resouces/6.png" alt="" height="360"/><br/>
 
 # 博客
-待...
+记载详细编写过程。[点此处跳转][1]
+
+
+  [1]: http://blog.csdn.net/honhong1024/article/details/79531699
 
